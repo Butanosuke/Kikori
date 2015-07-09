@@ -1,0 +1,50 @@
+﻿2013/10/26 5:21:00 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\ブー\Documents\Visual Studio 2010\Projects\Kikori\Kikori.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\Kikori.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"\\disney10\UData$\h22i21\デスクトップ\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /I"C:\Users\ブー\Desktop\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Apple.cpp FallingObject.cpp Main.cpp Melon.cpp Opening.cpp Play.cpp Result.cpp Scene.cpp
+         Play.cpp
+     1>c:\users\ブー\documents\visual studio 2010\projects\kikori\play.cpp(66): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+         Melon.cpp
+         FallingObject.cpp
+         Apple.cpp
+         コードを生成中...
+     1>c:\users\ブー\documents\visual studio 2010\projects\kikori\fallingobject.cpp(73): warning C4715: 'FallingObject::HitJudge' : 値を返さないコントロール パスがあります。
+         スキップ中... (関連する変更は検出されませんでした)
+         Scene.cpp
+         Result.cpp
+         Opening.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ブー\Documents\Visual Studio 2010\Projects\Kikori\Debug\Kikori.exe" /INCREMENTAL /NOLOGO /LIBPATH:"\\disney10\UData$\h22i21\デスクトップ\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /LIBPATH:"C:\Users\ブー\Desktop\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Kikori.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ブー\Documents\Visual Studio 2010\Projects\Kikori\Debug\Kikori.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ブー\Documents\Visual Studio 2010\Projects\Kikori\Debug\Kikori.lib" /MACHINE:X86 Debug\App.obj
+         Debug\Apple.obj
+         Debug\BGM.obj
+         Debug\FallingObject.obj
+         Debug\Hand.obj
+         Debug\Main.obj
+         Debug\Melon.obj
+         Debug\Music.obj
+         Debug\MusicApple.obj
+         Debug\MusicInfo.obj
+         Debug\MusicSelect.obj
+         Debug\Opening.obj
+         Debug\Play.obj
+         Debug\Position.obj
+         Debug\Result.obj
+         Debug\Scene.obj
+         Debug\Score.obj
+         Debug\SE.obj
+         Debug\test.obj
+         Debug\Tree.obj
+         Kikori.vcxproj -> C:\Users\ブー\Documents\Visual Studio 2010\Projects\Kikori\Debug\Kikori.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\ブー\Documents\Visual Studio 2010\Projects\Kikori\Debug\Kikori.exe.manifest" /manifest Debug\Kikori.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         ファイル "Debug\Kikori.unsuccessfulbuild" を削除しています。
+         "Debug\Kikori.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\ブー\Documents\Visual Studio 2010\Projects\Kikori\Kikori.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:06.74

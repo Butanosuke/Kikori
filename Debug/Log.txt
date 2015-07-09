@@ -1,0 +1,126 @@
+16:設定されている画面設定 640x480 16bit color
+94:システムの情報を出力します
+94:	ＤＸライブラリ Ver3.11 
+141:	論理プロセッサの数 : 4
+219:	ＯＳ  Windows7 ( Build 7601 Service Pack 1 )
+488:	ＣＰＵ動作速度：大体2.77GHz
+530:	ＭＭＸ命令を使用します
+580:	ＳＳＥ命令が使用可能です
+631:	ＳＳＥ２命令が使用可能です
+680:	ＣＰＵベンダ：GenuineIntel
+840:	ＣＰＵ名：        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+914:ＣＯＭの初期化... 成功しました
+969:メモリ総量:8071.65MB  空きメモリ領域:3861.33MB 
+1031:タイマーの精度を検査します
+1072:精度結果 更新回数 マルチメディアタイマー：0  パフォーマンスカウンター：60
+1114: パフォーマンスカウンターを使用します タイマー精度 : 3117.958000 KHz 
+1164: ソフトの二重起動検査... 二重起動はされていませんでした
+1290:ウインドウクラスを登録します... 登録に成功しました
+1381:フルスクリーンモード用のウインドウを作成します
+1488:ウインドウの作成に成功しました
+1530:ウインドウを表示します
+1655:カーソルを不可視にしました
+1710:ＩＭＥを無効にしました
+1783:DirectInput関係初期化処理
+1830:	XInput DLL の読み込み中... 成功
+1897:	DirectInput7 の取得中... 成功
+1998:		引き続き初期化処理... 初期化成功
+2104:	ジョイパッドの初期化... 
+2269:	ジョイパッドの初期化は正常に終了しました
+2322:	マウスデバイスの初期化... 初期化成功
+2383:	キーボードデバイスの初期化... 初期化成功
+2464:DirectInput 関連の初期化は正常に終了しました
+2553:XAudio2 の初期化を行います
+2607:	XAudio2 インターフェースの取得を行います....  成功 Ver2.7
+
+2664:	引き続きインターフェースの初期化処理...  成功
+2749:	X3DAudio.DLL の読み込み中... 成功
+2947:		デバイス名：スピーカー (Realtek High Definition Audio)
+3036:		チャンネル数:2
+3091:		ビット精度:32bit
+3141:		サンプリングレート:48000Hz
+3193:XAudio2 の初期化は正常に終了しました
+3239:DirectDraw オブジェクトの取得を行います....  成功
+3295:引き続き初期化処理... 初期化に成功しました
+3466:IDirect3D9Ex オブジェクトを取得します.... 成功
+3779:Desktop Window Manager を無効にしました
+3818:IDirect3DDevice9Ex オブジェクトを取得します.... ハードウエア頂点演算を使用します
+4423:成功
+4472:Driver:aticfx32.dll  Description:AMD RADEON HD 6450
+4525:画面のフォーマットは D3DFMT_R5G6B5 です
+4572:16bit Zバッファフォーマットは D3DFMT_D16 です
+4622:24bit Zバッファフォーマットは D3DFMT_D24X8 です
+4672:32bit Zバッファフォーマットは D3DFMT_D24X8 です
+4722:16bit カラーフォーマットは D3DFMT_R5G6B5 です
+4772:32bit カラーフォーマットは D3DFMT_X8R8G8B8 です
+4821:アルファ付き 16bit カラーフォーマットは D3DFMT_A4R4G4B4 です
+4837:アルファ付き 32bit カラーフォーマットは D3DFMT_A8R8G8B8 です
+4855:アルファテスト用 16bit カラーフォーマットは D3DFMT_A1R5G5B5 です
+4904:アルファテスト用 32bit カラーフォーマットは D3DFMT_A8R8G8B8 です
+4922:ＤＸＴ１テクスチャフォーマットはD3DFMT_DXT1 です
+4971:ＤＸＴ２テクスチャフォーマットはD3DFMT_DXT2 です
+4993:ＤＸＴ３テクスチャフォーマットはD3DFMT_DXT3 です
+5030:ＤＸＴ４テクスチャフォーマットはD3DFMT_DXT4 です
+5046:ＤＸＴ５テクスチャフォーマットはD3DFMT_DXT5 です
+5066:描画用 16bit カラーフォーマットは D3DFMT_R5G6B5 です
+5114:描画用 32bit カラーフォーマットは D3DFMT_X8R8G8B8 です
+5146:描画用アルファ付き 32bit カラーフォーマットは D3DFMT_A8R8G8B8 です
+5208:描画用ABGR整数16ビット型カラーフォーマットは D3DFMT_A16B16G16R16 です
+5258:描画用ABGR浮動小数点16ビット型カラーフォーマットは D3DFMT_A16B16G16R16F です
+5296:描画用ABGR浮動小数点32ビット型カラーフォーマットは D3DFMT_A32B32G32R32F です
+5339:描画用１チャンネル整数8ビット型カラーフォーマットは D3DFMT_A8R8G8B8 です
+5380:描画用１チャンネル整数16ビット型カラーフォーマットは D3DFMT_G16R16 です
+5422:描画用１チャンネル浮動小数点16ビット型カラーフォーマットは D3DFMT_R16F です
+5467:描画用１チャンネル浮動小数点32ビット型カラーフォーマットは D3DFMT_R32F です
+5520:描画用２チャンネル整数8ビット型カラーフォーマットは D3DFMT_A8B8G8R8 です
+5564:描画用２チャンネル整数16ビット型カラーフォーマットは D3DFMT_G16R16 です
+5605:描画用２チャンネル浮動小数点16ビット型カラーフォーマットは D3DFMT_G16R16F です
+5647:描画用２チャンネル浮動小数点32ビット型カラーフォーマットは D3DFMT_G32R32F です
+5688:一度に描画できるプリミティブの最大数:5592405
+5731:対応している最大頂点インデックス:16777215
+5781:同時にレンダリングできるバッファの数:4
+5799:最大テクスチャサイズ　幅:16384 高さ:16384
+5840:テクスチャステージテンポラリレジスタ：使用可
+5882:減算合成のハードウェア対応：ネイティブ
+5926:ハードウェア頂点シェーダーバージョンコード：300
+5965:エミュレーション頂点シェーダーバージョンコード：エミュレーション無し
+6007:ピクセルシェーダーバージョンコード：300
+6075:バックバッファロック転送の時間:6268nsec  一時的な描画可能バッファを使用した転送の時間:1636nsec
+6115:バックバッファロックを使用しません
+6198:Ｚバッファを作成します.... 成功
+6312:プログラマブルシェーダーを使用します
+
+6461:フォントの初期化を行います
+6500:フォントの初期化は正常に終了しました
+6551:文字コードバッファの初期化を行います... 完了しました
+6630:画像ファイル \\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\picture\taitol.bmp がありません
+6695:画像ファイル \\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\picture\title.bmp がありません
+6751:画像ファイル \\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\picture\playbg.bmp がありません
+6830:画像ファイル \\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\picture\minirin.bmp がありません
+6875:右記のファイルのオープンに失敗しました：\\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\music\bomb.mp3
+6915:右記の音声ファイルのロードに失敗しました_1：\\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\music\bomb.mp3
+6976:画像ファイル \\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\picture\minirin.bmp がありません
+7028:右記のファイルのオープンに失敗しました：\\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\music\bomb.mp3
+7065:右記の音声ファイルのロードに失敗しました_1：\\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\music\bomb.mp3
+7128:画像ファイル \\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\picture\minirin.bmp がありません
+7200:右記のファイルのオープンに失敗しました：\\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\music\bomb.mp3
+7248:右記の音声ファイルのロードに失敗しました_1：\\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\music\bomb.mp3
+7322:画像ファイル \\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\picture\minirin.bmp がありません
+7376:右記のファイルのオープンに失敗しました：\\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\music\bomb.mp3
+7423:右記の音声ファイルのロードに失敗しました_1：\\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\music\bomb.mp3
+7497:画像ファイル \\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\picture\minirin.bmp がありません
+7560:右記のファイルのオープンに失敗しました：\\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\music\bomb.mp3
+7617:右記の音声ファイルのロードに失敗しました_1：\\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\music\bomb.mp3
+7698:画像ファイル \\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\picture\minirin.bmp がありません
+7751:右記のファイルのオープンに失敗しました：\\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\music\bomb.mp3
+7798:右記の音声ファイルのロードに失敗しました_1：\\disney10\UData$\h22i21\My Documents\Visual Studio 2010\Projects\Kikori\Debug\music\bomb.mp3
+22508:ウインドウを閉じようとしています
+22795:ウインドウが破棄されようとしています
+22841:ソフトを終了する準備が整いました
+22941:Direct3DDevice9 の解放 2
+23036:Direct3D9 DLL の解放 1
+23140:DirectInput 関連の終了処理... 完了
+23246:
+23281:Alloc memory dump
+23331:	Total size:0(0.000kb)  Alloc num:0
+23380:
